@@ -6,7 +6,6 @@ background: #4049c9; /* Old browsers */
 background: -moz-linear-gradient(top,  #828396 0%, #4049c9 100%); 
 background: -webkit-linear-gradient(top,  #828396 0%,#4049c9 100%); 
 background: linear-gradient(to bottom,  #828396 0%,#4049c9 100%); 
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f27a30', endColorstr='#1e101c',GradientType=0 );
     background-color:  linear-gradient(to bottom,  #ffffff 0%,#4049c9 100%); 
     font-family: 'Peralta', cursive;
     padding: 0px;
