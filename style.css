@@ -1,0 +1,109 @@
+/*CSS3*/
+@charset "UTF-8";
+body
+{
+background: #4049c9; /* Old browsers */
+background: -moz-linear-gradient(top,  #828396 0%, #4049c9 100%); 
+background: -webkit-linear-gradient(top,  #828396 0%,#4049c9 100%); 
+background: linear-gradient(to bottom,  #828396 0%,#4049c9 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f27a30', endColorstr='#1e101c',GradientType=0 );
+    background-color:  linear-gradient(to bottom,  #ffffff 0%,#4049c9 100%); 
+    font-family: 'Peralta', cursive;
+    padding: 0px;
+    margin: 0px;
+}
+#wrapper
+{
+    width: 960px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:linear-gradient(to bottom,  #ffffff 0%,#4049c9 100%);
+}
+
+nav
+{
+    text-align: center;
+    color:black
+}
+
+h2,h3,h5,h6,li 
+{ 
+    color: #ffffff;
+    margin-left:15px; 
+}
+
+#banner h1
+{
+    color:#4049c9;
+    height:500px;
+}
+
+.clear
+{ 
+    clear: both; 
+} 
+
+video 
+{
+        position:relative;
+        bottom: 30px;
+        width: 400px;
+        left: 220px;
+        padding: 5px;
+        margin: 30px;
+        background-color:black;
+        border:2px rgb(255, 255, 255) solid;
+}
+
+
+    header, footer {
+        background-color:  linear-gradient(to bottom,  #ffffff 0%,#4049c9 100%); 
+        color: rgb(0, 0, 0);
+        padding-top:5px;
+        padding-bottom:5px;
+        }
+        
+h1 {
+    text-align: center; 
+    bottom:100px;
+}
+
+address{
+    position:relative ;
+    bottom: 120px;
+    left: -500px;
+}
+
+h5 {
+    position: relative;
+    bottom: -280px;
+    color: black
+}
+
+p {
+    position: relative;
+    left: 800px;
+    width: 300px;
+    height: 250px;
+    bottom: -350px;
+    color: rgb(0, 0, 0);
+}
+
+form{
+    color: black;
+}
+
+p1{
+    position: relative;
+    width: 150px;
+    height: 200px;
+    left: 0px;
+}
+p2{
+    position: relative;
+    width: 150px;
+    height: 200px;
+    left: 0px;
+    bottom: -50px;
+}
