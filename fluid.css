@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body 
+{
+    background-color: black;
+    font-family: 'Peralta', cursive;
+    padding:0px;
+    margin:0px;
+}
+h1,h2,h3,h4,h6,p,li 
+{
+    margin-left:15px;
+}
+#wrapper 
+{
+    width: 66%;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:LightSlateGrey;
+}
+
+#footer 
+{
+    height:80px;
+}
+#banner
+{
+    height:120px;
+    background-color:SlateGrey;
+}
+
+.clear
+{
+    clear: both;
+}
